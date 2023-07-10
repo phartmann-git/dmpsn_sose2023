@@ -27,4 +27,7 @@ The content of this repository is split into 4 steps and those can be described 
 + Detecting and analyzing hand / hand landmarks
 + Using enumerated coordinates of landmarks to predict with help of the model
 + Comparing predicted char to asked char
-+ drawing prediction to hand 
++ drawing prediction to hand
+
+### webcam issue for macOS
+It seems there's an error when starting video.py on macOS. This could be due to lack of permission by the terminal to start the webcam service. We haven't found a workaround for the problem so far. If you were able to fix this, please let us know on how you done that. We will share a fix to this problem as soon as we know one.
