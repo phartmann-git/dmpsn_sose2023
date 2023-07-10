@@ -1,6 +1,4 @@
-![grafik](https://github.com/phartmann-git/dmpsn_sose2023/assets/83116336/d85e188a-8e10-4d3e-a6b9-ca110c7d94bf)![grafik](https://github.com/phartmann-git/dmpsn_sose2023/assets/83116336/2a359e3b-344a-4ca0-81a1-c9fcf055c0f4)![grafik](https://github.com/phartmann-git/dmpsn_sose2023/assets/83116336/6655aa71-e4f4-44a9-9aa9-5fd3899b32d5)# dmpsn_sose2023
-Sign Language Recognition for learning GSL - [Designing Media for People with Special Needs]
-
+# Sign Language Recognition for learning GSL - [Designing Media for People with Special Needs]
 This repository was used in the university course "Designing Media for People with Special Needs" short DMPSN as part of the Media Computer Science B.Sc. of the University of Applied Sciences Bremen. It serves as a code dump for presentation in the course and for saving it for the future. Main objective of this group project was to create a Sign Language Recognition which can later be used in a GSL learning app.
 The content of this repository is split into 4 steps and those can be described as following:
 
