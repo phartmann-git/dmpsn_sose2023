@@ -3,7 +3,7 @@ This repository was used in the university course "Designing Media for People wi
 
 ## Needed modules for using all parts
 ```
-pip install sckit-learn, numpy, pickle, openCV-python, mediapipe
+pip install scikit-learn, numpy, openCV-python, mediapipe
 ```
 
 **webcam issue for macOS**  
