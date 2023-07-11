@@ -2,9 +2,9 @@
 This repository was used in the university course "Designing Media for People with Special Needs" short DMPSN as part of the Media Computer Science B.Sc. of the University of Applied Sciences Bremen. It serves as a code dump for presentation in the course and for saving it for the future. Main objective of this group project was to create a Sign Language Recognition which can later be used in a GSL learning app.
 
 ## Needed installed modules for using all parts
-´´´
+```
 pip install sckit-learn, numpy, pickle, openCV-python, mediapipe
-´´´
+```
 
 
 
