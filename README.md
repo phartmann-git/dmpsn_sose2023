@@ -6,7 +6,7 @@ This repository was used in the university course "Designing Media for People wi
 pip install sckit-learn, numpy, pickle, openCV-python, mediapipe
 ```
 
-**webcam issue for macOS**
+**webcam issue for macOS**  
 *It seems there's an error when starting video.py on macOS. This could be due to lack of permission by the terminal to start the webcam service. We haven't found a workaround for the problem so far. If you were able to fix this, please let us know on how you done that. We will share a fix to this problem as soon as we know one.*
 </br>
 </br>
