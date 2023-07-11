@@ -1,13 +1,18 @@
 # Sign Language Recognition for learning GSL - [Designing Media for People with Special Needs]
 This repository was used in the university course "Designing Media for People with Special Needs" short DMPSN as part of the Media Computer Science B.Sc. of the University of Applied Sciences Bremen. It serves as a code dump for presentation in the course and for saving it for the future. Main objective of this group project was to create a Sign Language Recognition which can later be used in a GSL learning app.
 
-## Needed installed modules for using all parts
+## Needed modules for using all parts
 ```
 pip install sckit-learn, numpy, pickle, openCV-python, mediapipe
 ```
 
+**webcam issue for macOS**
+*It seems there's an error when starting video.py on macOS. This could be due to lack of permission by the terminal to start the webcam service. We haven't found a workaround for the problem so far. If you were able to fix this, please let us know on how you done that. We will share a fix to this problem as soon as we know one.*
+</br>
+</br>
 
 
+  
 
 The content of this repository is split into 4 steps and those can be described as following:
 ### raw data collection
@@ -37,5 +42,3 @@ The content of this repository is split into 4 steps and those can be described 
 + Comparing predicted char to asked char
 + drawing prediction to hand
 
-**webcam issue for macOS**
-*It seems there's an error when starting video.py on macOS. This could be due to lack of permission by the terminal to start the webcam service. We haven't found a workaround for the problem so far. If you were able to fix this, please let us know on how you done that. We will share a fix to this problem as soon as we know one.*
