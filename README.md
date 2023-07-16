@@ -43,7 +43,7 @@ The content of this repository is split into 4 steps and those can be described 
 + drawing prediction to hand
 
 
-## Application User Interface Mockup
+## Application User Interface
 
 Addtionally to our Python prototype, we designed an user interface for a possible developed application. This mockup contains multiple learning models and methods, which encourages the user to learn the German Sign Language (GSL).
 
