@@ -42,3 +42,12 @@ The content of this repository is split into 4 steps and those can be described 
 + Comparing predicted char to asked char
 + drawing prediction to hand
 
+
+## Application User Interface Mockup
+
+Addtionally to our Python prototype, we designed an user interface for a possible developed application. This mockup contains multiple learning models and methods, which encourages the user to learn the German Sign Language (GSL).
+
+You can find the mockup under the following link: 
+https://www.figma.com/file/VlCg6BKeyGWweEtYlvLoLA/Special-Needs?type=design&node-id=25%3A69&mode=design&t=HUDFdyNM9EIOC5zW-1
+
+After clicking the present button on the top right, you can click through the mockup to review the planned features.
